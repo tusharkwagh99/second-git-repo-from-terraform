@@ -1,2 +1,3 @@
 # second-git-repo-from-terraform
-My Second Repo Created from Terraform Code
+My Second Repo was Created from Terraform Code; This is manually changed!
+ 
